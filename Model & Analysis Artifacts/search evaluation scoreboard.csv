@@ -1,0 +1,5 @@
+Experiment,Precision@10,RR@10
+1: Baseline Sparse (lrcm_sparse),0.16875,0.3438740079365079
+2: English Sparse (lrcm_sparse_english),0.178125,0.39340277777777777
+3: Dense Search (Semantic),0.275,0.5834201388888889
+4: Hybrid RRF (Combined),0.259375,0.5476934523809524

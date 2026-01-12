@@ -1,0 +1,33 @@
+theme,query,p_at_10,p_at_20,rr_at_10
+AI Hardware,artificial intelligence hardware acceleration,0.3,0.2,1.0
+Cloud Infrastructure,hyperscale cloud infrastructure,0.2,0.25,0.2
+Enterprise AI Software,business intelligence automation platforms,0.2,0.2,1.0
+Data Center Cooling,thermal management data centers,0.2,0.15,0.16666666666666666
+Solar Energy,photovoltaic energy generation,0.1,0.05,0.16666666666666666
+Nuclear Power,fission reactor electricity utilities,0.2,0.35,0.125
+Energy Storage,electrical grid stabilization technology,0.1,0.05,0.25
+Wind Energy,offshore renewable power generation,0.4,0.2,0.5
+Electric Vehicles,battery powered passenger vehicles,0.4,0.25,1.0
+Autonomous Driving,self driving sensor technology,0.2,0.1,1.0
+Digital Payments,electronic transaction processing,0.6,0.3,1.0
+BNPL,installment lending platforms,0.1,0.1,0.5
+Crypto Trading,digital asset trading platforms,0.1,0.2,0.125
+Cybersecurity,enterprise threat prevention systems,0.4,0.2,0.5
+Zero Trust,identity verification access management,0.3,0.15,1.0
+Digital Health,remote patient care technology,0.0,0.05,0.0
+Quantum Computing,superposition based computing,0.2,0.1,0.16666666666666666
+HPC,parallel processing supercomputers,0.1,0.15,0.125
+Robotics & Automation,industrial process automation,0.3,0.2,0.3333333333333333
+Warehouse Automation,fulfillment center optimization,0.1,0.05,0.1
+Metaverse & Gaming,immersive digital environments,0.2,0.15,0.5
+Gaming & Esports,competitive gaming platforms,0.5,0.3,1.0
+Hotels,hospitality accommodation services,0.2,0.25,0.14285714285714285
+Airlines,commercial passenger aviation,0.3,0.25,1.0
+Big Box Retail,discount wholesale retail operations,0.3,0.15,0.5
+Fast Food,quick service dining franchises,0.4,0.3,1.0
+Home Improvement,residential construction supplies retail,0.3,0.2,1.0
+5G & Edge Computing,wireless network infrastructure,0.6,0.4,1.0
+Semiconductor Equipment,chip fabrication equipment,0.5,0.25,1.0
+Memory & Storage,data storage solutions,0.3,0.25,1.0
+AI Infrastructure Stack,machine learning infrastructure stack,0.2,0.2,0.125
+Precision Medicine,precision medicine technology,0.0,0.0,0.0
